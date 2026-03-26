@@ -6,7 +6,7 @@
 - [**On-Premise-Medical-AI-Assistant**](https://github.com/Vic-Warden/On-Premise-Medical-AI-Assistant)  
   Local deployment of Speech-to-Text and NLP models for automated consultation summaries. Fully offline, air-gapped for medical confidentiality.
 
-- **Medical-Office-Workflow-Automation**  
+- [**Medical-Office-Workflow-Automation**](https://github.com/Vic-Warden/Medical-Office-Workflow-Automation)  
   Python scripts to automate administrative tasks and data entry for medical staff. Reduces manual workload and errors.
 
 - [**Healthcare-Analytics-Engine**](https://github.com/Vic-Warden/Healthcare-Analytics-Engine)  
