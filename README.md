@@ -21,8 +21,8 @@
   _Not started yet_
 
 - [**Digital-Life-Hipper-Monitoring**](https://github.com/Vic-Warden/Digital-Life-Hipper-Monitoring)  
-  Monitoring solution for Digital Life: real-time health data analytics.  
-  _Jupyter Notebooks, Python_
+  AI app for classifying movement data using steps and PAM scores. Uses Logistic Regression & KNN for activity insights.  
+  _Python, scikit-learn, Docker, Power BI, Pandas_
 
 ---
 
@@ -33,16 +33,16 @@
   _Python, Streamlit, MongoDB, Neo4j, Docker, Kubernetes_
 
 - [**ai-pedagogy-bridge**](https://github.com/Vic-Warden/ai-pedagogy-bridge)  
-  Local AI-powered learning platform: RAG chatbot, revision sheets, teacher dashboard.  
-  _Python, FastAPI, MongoDB_
+  Local AI learning platform: RAG chatbot, revision sheets, teacher dashboard. Runs with Ollama.  
+  _Streamlit, LangChain, Ollama, ChromaDB, Pandas_
 
 - [**Mini-EV-Autonomous-HMI**](https://github.com/Vic-Warden/Mini-EV-Autonomous-HMI)  
-  HMI dashboard for autonomous electric Mini: real-time metrics, LVGL v9.  
-  _C++, LVGL_
+  HMI dashboard for autonomous Mini EV: power, diagnostics, and driving status with LVGL v9.  
+  _LVGL, FreeRTOS, CMake, SDL, HAL_
 
 - [**Smart-Calendar**](https://github.com/Vic-Warden/Smart-Calendar)  
-  IoT smart calendar designed in Amsterdam.  
-  _C++, Arduino_
+  IoT smart calendar with Dockerized PHP/Nginx/MariaDB stack and MkDocs documentation.  
+  _Docker, PHP, Nginx, MariaDB, MkDocs_
 
 ---
 
@@ -61,27 +61,23 @@
 ## Personal Projects
 
 - [**Quant-Trading-Sequential-Prediction**](https://github.com/Vic-Warden/Quant-Trading-Sequential-Prediction)  
-  API for sequential prediction and trading signals in quantitative finance.  
-  _Python, FastAPI_
+  LSTM-based quant trading: market signal prediction, FastAPI REST API, Streamlit dashboard, Dockerized.  
+  _Python, FastAPI, Streamlit, TensorFlow, Pandas, Docker_
 
 - [**Factor-Exposure-Analyzer**](https://github.com/Vic-Warden/Factor-Exposure-Analyzer)  
-  Engine for Fama-French factor exposure analysis.  
-  _Python, Statsmodels_
+  _Not started yet_
 
 - [**Vol-Surface-Builder**](https://github.com/Vic-Warden/Vol-Surface-Builder)  
-  Volatility surface construction and SABR calibration.  
-  _Python, Scipy_
+  _Not started yet_
 
 - [**Cross-Asset-Anomaly-Detector**](https://github.com/Vic-Warden/Cross-Asset-Anomaly-Detector)  
-  Detection of cross-asset correlation breakdowns.  
-  _Python, Pandas_
+  _Not started yet_
 
 - [**Market-Sentiment-Classification**](https://github.com/Vic-Warden/Market-Sentiment-Classification)  
-  Real-time financial sentiment API using NLP models.  
-  _Python, FastAPI, Transformers_
+  _Not started yet_
 
 - [**Credit-Risk-Anomaly-Detection**](https://github.com/Vic-Warden/Credit-Risk-Anomaly-Detection)  
-  Credit risk scoring and anomaly detection API.  
-  _Python, Flask, ML_
+  REST API and dashboard for real-time credit risk scoring and anomaly detection.  
+  _Python, Flask, scikit-learn, SQLAlchemy, Jupyter_
 
 ---
