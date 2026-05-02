@@ -17,13 +17,13 @@
 
   <p align="left">
     <a href="https://github.com/Vic-Warden/Ophtao-Website">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Ophtao-Website&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Ophtao-Website">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Ophtao-Website&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Ophtao-Website">
     </a>
     <a href="https://github.com/Vic-Warden/Studiovision-Autosync">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Studiovision-Autosync&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Studiovision-Autosync">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Studiovision-Autosync&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Studiovision-Autosync">
     </a>
     <a href="https://github.com/Vic-Warden/OphthaView">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=OphthaView&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="OphthaView">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=OphthaView&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="OphthaView">
     </a>
   </p>
 
@@ -38,10 +38,10 @@
 
   <p align="left">
     <a href="https://github.com/Vic-Warden/Digital-Life-Hipper-Monitoring">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Digital-Life-Hipper-Monitoring&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Digital-Life-Hipper-Monitoring">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Digital-Life-Hipper-Monitoring&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Digital-Life-Hipper-Monitoring">
     </a>
     <a href="https://github.com/Vic-Warden/Smart-Calendar">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Smart-Calendar&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Smart-Calendar">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Smart-Calendar&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Smart-Calendar">
     </a>
   </p>
 
@@ -56,13 +56,13 @@
 
   <p align="left">
     <a href="https://github.com/Vic-Warden/LVGL-Dual-Dash">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=LVGL-Dual-Dash&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="LVGL-Dual-Dash">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=LVGL-Dual-Dash&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="LVGL-Dual-Dash">
     </a>
     <a href="https://github.com/Vic-Warden/EduLocal">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=EduLocal&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="EduLocal">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=EduLocal&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="EduLocal">
     </a>
     <a href="https://github.com/Vic-Warden/Projet-NoSQL-Databases">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Projet-NoSQL-Databases&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Projet-NoSQL-Databases">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Projet-NoSQL-Databases&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Projet-NoSQL-Databases">
     </a>
   </p>
 
@@ -77,10 +77,10 @@
 
   <p align="left">
     <a href="https://github.com/Vic-Warden/Quant-Trading-Sequential-Prediction">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Quant-Trading-Sequential-Prediction&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Quant-Trading-Sequential-Prediction">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Quant-Trading-Sequential-Prediction&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Quant-Trading-Sequential-Prediction">
     </a>
     <a href="https://github.com/Vic-Warden/Credit-Risk-Anomaly-Detection">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Credit-Risk-Anomaly-Detection&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Credit-Risk-Anomaly-Detection">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Credit-Risk-Anomaly-Detection&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Credit-Risk-Anomaly-Detection">
     </a>
   </p>
 
@@ -99,10 +99,10 @@
 
   <p align="left">
     <a href="https://github.com/Vic-Warden/Mooc-Python-OOP">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Python-OOP&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Python-OOP">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Python-OOP&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Python-OOP">
     </a>
     <a href="https://github.com/Vic-Warden/Mooc-Devops">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Devops&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Devops">
+      <img width="278" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Devops&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Devops">
     </a>
   </p>
 
@@ -162,10 +162,10 @@
 
   <h3>GitHub Profile Stats</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Vic-Warden's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Vic-Warden&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=2ea043&text_color=c9d1d9" height="192px"/>
+    <img alt="Vic-Warden's Github Stats" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/?username=Vic-Warden&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=2ea043&text_color=c9d1d9" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Vic-Warden's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Warden&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=2ea043&text_color=c9d1d9" height="192px"/>
+    <img alt="Vic-Warden's Top Languages" src="https://github-readme-stats-fawn-kappa-91.vercel.app/api/top-langs/?username=Vic-Warden&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=2ea043&text_color=c9d1d9" height="192px"/>
   </a>
 
   <br/>
