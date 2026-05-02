@@ -8,105 +8,102 @@
   </a>
 </p>
 
-
-
 ---
 
 <details open>
-  <summary><h2>Internship — Ophtao Clinic</h2></summary>
+  <summary><h2>📁 Repositories</h2></summary>
 
-  > Building a full production software suite for an ophthalmology clinic — AI-powered tooling, medical image routing, and patient data infrastructure.
+  <details>
+    <summary><h3>Internship — Ophtao Clinic</h3></summary>
 
-  <p align="left">
-    <a href="https://github.com/Vic-Warden/Ophtao-Website">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Ophtao-Website&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Ophtao-Website">
-    </a>
-    <a href="https://github.com/Vic-Warden/Studiovision-Autosync">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Studiovision-Autosync&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Studiovision-Autosync">
-    </a>
-    <a href="https://github.com/Vic-Warden/OphthaView">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=OphthaView&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="OphthaView">
-    </a>
-  </p>
+    > Building a full production software suite for an ophthalmology clinic — AI-powered tooling, medical image routing, and patient data infrastructure.
 
-</details>
+    <p align="left">
+      <a href="https://github.com/Vic-Warden/Ophtao-Website">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Ophtao-Website&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Ophtao-Website">
+      </a>
+      <a href="https://github.com/Vic-Warden/Studiovision-Autosync">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Studiovision-Autosync&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Studiovision-Autosync">
+      </a>
+      <a href="https://github.com/Vic-Warden/OphthaView">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=OphthaView&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="OphthaView">
+      </a>
+    </p>
 
----
+  </details>
 
-<details open>
-  <summary><h2>Semester Abroad — Hogeschool van Amsterdam</h2></summary>
+  <details>
+    <summary><h3>Semester Abroad — Hogeschool van Amsterdam</h3></summary>
 
-  > Exchange semester at the **Hogeschool van Amsterdam** — IoT systems, full-stack development and real-world client projects.
+    > Exchange semester at the **Hogeschool van Amsterdam** — IoT systems, full-stack development and real-world client projects.
 
-  <p align="left">
-    <a href="https://github.com/Vic-Warden/Digital-Life-Hipper-Monitoring">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Digital-Life-Hipper-Monitoring&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Digital-Life-Hipper-Monitoring">
-    </a>
-    <a href="https://github.com/Vic-Warden/Smart-Calendar">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Smart-Calendar&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Smart-Calendar">
-    </a>
-  </p>
+    <p align="left">
+      <a href="https://github.com/Vic-Warden/Digital-Life-Hipper-Monitoring">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Digital-Life-Hipper-Monitoring&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Digital-Life-Hipper-Monitoring">
+      </a>
+      <a href="https://github.com/Vic-Warden/Smart-Calendar">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Smart-Calendar&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Smart-Calendar">
+      </a>
+    </p>
 
-</details>
+  </details>
 
----
+  <details>
+    <summary><h3>Academic Projects</h3></summary>
 
-<details open>
-  <summary><h2>Academic Projects</h2></summary>
+    > Engineering school projects — CAP Projet, RSE, and distributed systems.
 
-  > Engineering school projects — CAP Projet, RSE, and distributed systems.
+    <p align="left">
+      <a href="https://github.com/Vic-Warden/LVGL-Dual-Dash">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=LVGL-Dual-Dash&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="LVGL-Dual-Dash">
+      </a>
+      <a href="https://github.com/Vic-Warden/EduLocal">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=EduLocal&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="EduLocal">
+      </a>
+      <a href="https://github.com/Vic-Warden/Projet-NoSQL-Databases">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Projet-NoSQL-Databases&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Projet-NoSQL-Databases">
+      </a>
+    </p>
 
-  <p align="left">
-    <a href="https://github.com/Vic-Warden/LVGL-Dual-Dash">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=LVGL-Dual-Dash&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="LVGL-Dual-Dash">
-    </a>
-    <a href="https://github.com/Vic-Warden/EduLocal">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=EduLocal&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="EduLocal">
-    </a>
-    <a href="https://github.com/Vic-Warden/Projet-NoSQL-Databases">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Projet-NoSQL-Databases&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Projet-NoSQL-Databases">
-    </a>
-  </p>
+  </details>
 
-</details>
+  <details>
+    <summary><h3>Personal Projects — AI & Finance</h3></summary>
 
----
+    > Self-initiated projects applying ML to real-world financial problems.
 
-<details open>
-  <summary><h2>Personal Projects — AI & Finance</h2></summary>
+    <p align="left">
+      <a href="https://github.com/Vic-Warden/Quant-Trading-Sequential-Prediction">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Quant-Trading-Sequential-Prediction&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Quant-Trading-Sequential-Prediction">
+      </a>
+      <a href="https://github.com/Vic-Warden/Credit-Risk-Anomaly-Detection">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Credit-Risk-Anomaly-Detection&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Credit-Risk-Anomaly-Detection">
+      </a>
+    </p>
 
-  > Self-initiated projects applying ML to real-world financial problems.
+  </details>
 
-  <p align="left">
-    <a href="https://github.com/Vic-Warden/Quant-Trading-Sequential-Prediction">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Quant-Trading-Sequential-Prediction&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Quant-Trading-Sequential-Prediction">
-    </a>
-    <a href="https://github.com/Vic-Warden/Credit-Risk-Anomaly-Detection">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Credit-Risk-Anomaly-Detection&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Credit-Risk-Anomaly-Detection">
-    </a>
-  </p>
+  <details>
+    <summary><h3>Self-Learning & MOOCs</h3></summary>
+
+    > Continuous learning — Python OOP, DevOps, and software engineering fundamentals.
+
+    <p align="left">
+      <a href="https://github.com/Vic-Warden/Mooc-Python-OOP">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Python-OOP&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Python-OOP">
+      </a>
+      <a href="https://github.com/Vic-Warden/Mooc-Devops">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Devops&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Devops">
+      </a>
+    </p>
+
+  </details>
+
+  <br/>
 
   <a href="https://github.com/Vic-Warden?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161b22?style=for-the-badge&logoColor=3fb950&logo=repo"/>
   </a>
-
-</details>
-
----
-
-<details>
-  <summary><h2>Self-Learning & MOOCs</h2></summary>
-
-  > Continuous learning — Python OOP, DevOps, and software engineering fundamentals.
-
-  <p align="left">
-    <a href="https://github.com/Vic-Warden/Mooc-Python-OOP">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Python-OOP&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Python-OOP">
-    </a>
-    <a href="https://github.com/Vic-Warden/Mooc-Devops">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-Warden&repo=Mooc-Devops&bg_color=0d1117&title_color=3fb950&hide_border=true&icon_color=2ea043&text_color=c9d1d9&show_icons=false" alt="Mooc-Devops">
-    </a>
-  </p>
 
 </details>
 
