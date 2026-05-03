@@ -170,10 +170,7 @@
 
   <br/>
 
-  <h3>Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vic-Warden&theme=algolia&no-frame=true&row=1&column=7"/>
-  </a>
+
 
   <br/><br/>
 
@@ -181,14 +178,5 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Vic-Warden's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Vic-Warden&bg_color=1F222E&color=3fb950&line=2ea043&point=c9d1d9&hide_border=true" />
   </a>
-
-  <h3>WakaTime</h3>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-
-  <h3>Contributions</h3>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Vic-Warden/Vic-Warden/output/github-snake-dark.svg" />
-  </div>
 
 </details>
