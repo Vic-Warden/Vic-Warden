@@ -154,7 +154,7 @@
   <h3>Streak Stats</h3>
   <p>
     <a href="https://git.io/streak-stats">
-      <img alt="Vic-Warden's streak" src="https://streak-stats.demolab.com/?user=Vic-Warden&theme=github-dark-green&hide_border=true"/>
+      <img alt="Vic-Warden's streak" src="https://streak-stats.demolab.com/?user=Vic-Warden&hide_border=true&background=1F222E&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9"/>
     </a>
   </p>
 
