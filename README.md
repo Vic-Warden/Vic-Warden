@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Victor+HOEGY&font=Fira+Code&center=true&width=400&height=60&color=3fb950&vCenter=true&pause=99999&size=36&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Victor+HOEGY&font=Fira+Code&center=true&width=400&height=60&color=3fb950&vCenter=true&pause=99999&size=36&repeat=false&duration=1" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+an+Engineer.+I+solve+practical+problems.&font=Fira%20Code&center=true&width=600&height=45&color=3fb950&vCenter=true&pause=99999&size=22&repeat=false" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+hold+the+secrets+of+the+Machine.&font=Fira%20Code&center=true&width=600&height=45&color=3fb950&vCenter=true&pause=99999&size=22&repeat=false" />
   </a>
 </p>
 
----
 
 <details open>
   <summary><h2>Internship — Ophtao Clinic</h2></summary>
-
   > Building a full production software suite for an ophthalmology clinic — AI-powered tooling, medical image routing, and patient data infrastructure.
 
   <p align="left">
